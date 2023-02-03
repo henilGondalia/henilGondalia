@@ -8,6 +8,6 @@
   
 <h3 align="center"> 🐍 Watch this snake eat up my Git commits!: <h3/> 
 
-![snake gif](https://github.com/dionnenoellabarretto/dionnenoellabarretto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/henilGondalia/henilGondalia/blob/master/github-contribution-grid-snake.svg)
 
   [Credits: 👉 Dionne Noella](https://github.com/DionneNoellaBarretto)
